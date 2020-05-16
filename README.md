@@ -1,5 +1,5 @@
-# Fappybird
-This if a fappy bird game made using java graphics on Netbeans8.2 software
+# Flappybird
+This if a flappy bird game made using java graphics on Netbeans8.2 software
 This is a very simple game made using basic graphics 
 Would be happy to see modifications in the program 
 Gmail=mihirmj447@gmail.com
